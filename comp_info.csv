@@ -1,0 +1,12 @@
+T,theta,perc,Slug
+14,70.0,0.2,home-credit-default-risk
+11,20.0,0.2,ieee-fraud-detection
+7,65.0,0.25,santander-customer-transaction-prediction
+7,30.0,0.3,siim-isic-melanoma-classification
+9,25.0,0.3,porto-seguro-safe-driver-prediction
+9,60.0,0.5,santander-customer-satisfaction
+6,35.0,0.1,jigsaw-toxic-comment-classification-challenge
+5,160.0,0.14,data-science-bowl-2019
+13,100.0,0.33,tgs-salt-identification-challenge
+9,50.0,0.15,aptos2019-blindness-detection
+7,25.0,0.18,talkingdata-adtracking-fraud-detection
